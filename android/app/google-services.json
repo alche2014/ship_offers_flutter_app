@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "242816849",
+    "project_id": "ship-offers",
+    "storage_bucket": "ship-offers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242816849:android:c170569ed39504ccbaa570",
+        "android_client_info": {
+          "package_name": "com.tapplay.shipoffers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242816849-0lqfrl8ua8sufi0tlps3ood1vaknmgf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9aCjgvwNN-Wlr0kzCq07uz_9dAh8MCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242816849-0lqfrl8ua8sufi0tlps3ood1vaknmgf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242816849-c3g1jl0ff9msok1abcde2oq6sns9g7mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nidshub.shipoffers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
