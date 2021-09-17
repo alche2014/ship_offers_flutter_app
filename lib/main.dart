@@ -8,7 +8,7 @@ import 'package:shipoffers/UI/splash.dart';
 import 'package:shipoffers/constants/firebase.dart';
 
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
+ WidgetsFlutterBinding.ensureInitialized();
   await initialization.then((value) {
     Get.put(AppController());
     Get.put(AuthController());
